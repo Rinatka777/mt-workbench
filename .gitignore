@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+.idea/
+.junie/
+.DS_Store
+coverage/
+docs/skills-log.md
